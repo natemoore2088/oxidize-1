@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oxidize-1/static/css/main.5f1853ff.chunk.css",
+    "main.js": "/oxidize-1/static/js/main.d9f5f2f5.chunk.js",
+    "main.js.map": "/oxidize-1/static/js/main.d9f5f2f5.chunk.js.map",
+    "runtime-main.js": "/oxidize-1/static/js/runtime-main.a8d08f08.js",
+    "runtime-main.js.map": "/oxidize-1/static/js/runtime-main.a8d08f08.js.map",
+    "static/js/2.d44aaac8.chunk.js": "/oxidize-1/static/js/2.d44aaac8.chunk.js",
+    "static/js/2.d44aaac8.chunk.js.map": "/oxidize-1/static/js/2.d44aaac8.chunk.js.map",
+    "index.html": "/oxidize-1/index.html",
+    "static/css/main.5f1853ff.chunk.css.map": "/oxidize-1/static/css/main.5f1853ff.chunk.css.map",
+    "static/js/2.d44aaac8.chunk.js.LICENSE.txt": "/oxidize-1/static/js/2.d44aaac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d08f08.js",
+    "static/js/2.d44aaac8.chunk.js",
+    "static/css/main.5f1853ff.chunk.css",
+    "static/js/main.d9f5f2f5.chunk.js"
+  ]
+}
