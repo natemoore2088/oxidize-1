@@ -3,7 +3,7 @@ https://devpost.com/software/frodo-s-nine-lives
 
 ## Play the game!
 Our react app is hosted on Heroku and you can try it out by following this link: 
-http://oxidize.herokuapp.com/
+https://natemoore2088.github.io/oxidize-1/
 
 ## Installation
 If you want to run the app on your local machine make sure you have Node installed. Copy the repo into a directory on your machine and run npm install. Then run npm start and it will open up localhost:3000 with the react app in chrome. 
